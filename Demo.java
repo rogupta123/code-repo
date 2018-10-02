@@ -11,6 +11,7 @@ public class Demo {
         int num1 = 10;
 		
 		echo with new strings
+		rohit
 
         int num2 = 20;
 
