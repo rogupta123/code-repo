@@ -9,8 +9,6 @@ public class Demo {
          */
         // This method reads the number provided using keyboard
         int num1 = 10;
-		echo
-
         int num2 = 20;
 
         // Closing Scanner after the use
